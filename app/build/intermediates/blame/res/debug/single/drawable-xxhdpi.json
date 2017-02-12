@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\x_blue.png",
+        "source": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\x_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home.png",
+        "source": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\o_red.png",
+        "source": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\o_red.png"
+    },
+    {
+        "merged": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\restart.png",
+        "source": "C:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\restart.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Feb 12 14:22:21 EET 2017
+base.0=C\:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_97ce64710c6175c2a1b08658fe4fa633488ded07
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c67488e9ef5e0cc704b77409e9d2783d408b6d88\\classes.dex
+base.1=C\:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c67488e9ef5e0cc704b77409e9d2783d408b6d88
+file.0=C\:\\Users\\EGL\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_97ce64710c6175c2a1b08658fe4fa633488ded07\\classes.dex
