@@ -5,7 +5,7 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="15768018194157"
+    timestamp="36967407990264"
     token="1240587325645354936"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="21845039625286"
+        timestamp="36967407990264"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\EGL\AndroidStudioProjects\TicTacToe\app\build\outputs\apk\app-debug.apk"
